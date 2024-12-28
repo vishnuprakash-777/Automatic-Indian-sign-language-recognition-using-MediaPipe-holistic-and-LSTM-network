@@ -1,0 +1,1 @@
+# Automatic-Indian-sign-language-recognition-using-MediaPipe-holistic-and-LSTM-network
